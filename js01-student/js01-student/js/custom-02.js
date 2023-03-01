@@ -2,7 +2,7 @@
 Užduotis 1
 Naudodami while loop, konsolėje parašykite nuo 10 iki 1. 
 */
-let skaicd = 10
+/*let skaicd = 10
 let skaicm = 1
 while ( skaicm <= skaicd) {
     console.log(skaicd)
@@ -14,7 +14,7 @@ while ( skaicm <= skaicd) {
 Užduotis 2
 Naudodami for loop, konsolėje parašykite nuo 10 iki 1.
 */
-for(let bi = 1; bi <= 10; bi++){
+/*for(let bi = 1; bi <= 10; bi++){
     console.log(bi)
 }
 
